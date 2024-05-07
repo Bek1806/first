@@ -1,0 +1,41 @@
+Price	Price per m2	describe	Location
+4,930,000
+EGP	- 20,714 EGP/m	Apartments For sale in Second Neighborhood	Greater Cairo  /  Second Neighborhood
+3,110,000
+EGP	- 22,214 EGP/m	Apartment with Garden For sale in North House	Greater Cairo  /  North House
+3,129,000
+EGP	- 17,677 EGP/m	Apartments For sale in Hay El Orchid	Greater Cairo  /  Hay El Orchid
+9,500,000
+EGP	- 49,738 EGP/m	Finished apartment ready to move, lowest price in Amorada 	Greater Cairo  /  Amorada Compound - Afaq
+13,000,000
+EGP	- 55,793 EGP/m	Own in telal east with exclusive offers at the Address Property Show	Greater Cairo  /  Telal East Compound - Roya 
+16,252,139
+EGP	- 164,163 EGP/m	Apartments For sale in Azad Compound - Tameer	Greater Cairo  /  Azad Compound - Tameer
+7,000,000
+EGP	- 40,000 EGP/m	Own a property in Wonder MarQ Compound with exclusive offers at The Address Property Show	Greater Cairo  /  The Wonder MarQ Compound - The MarQ
+4,147,000
+EGP	- 21,376 EGP/m	Apartments For sale in Second Neighborhood	Greater Cairo  /  Second Neighborhood
+6,000,000
+EGP	- 34,285 EGP/m	Own in The MarQ Compound with exclusive offers at The Address Property Show	Greater Cairo  /  The Marq Compound 
+8,000,000
+EGP	- 66,666 EGP/m	Own in Mountain View ALIVA with exclusive offers at The Address Property Show	Greater Cairo  /  Aliva Compound - Mountain View 
+9,000,000
+EGP	- 741 EGP/m	Own in Palm Hills Compound with exclusive offers at The Address Property Show	Greater Cairo  /  Cleo Water Residence - Palm Hills New Cairo - PHNC	
+8,000,000
+EGP	- 66,666 EGP/m	Own in Al Bosco City Compound with exclusive offers at The Address Property Show	Greater Cairo  /  La Natura - IL Bosco City Compound 
+7,000,000
+EGP	- 60,869 EGP/m	Bloomfields Compound with exclusive offers at The Address Property Show	Greater Cairo  /  Bloomfields Compound - Tatweer Misr
+16,500,000
+EGP	- 94,285 EGP/m	Administrative units for sale with exclusive offers at The Address Property Show	Greater Cairo  /  Zed East Compound - ORA
+8,745,000
+EGP	- 116,600 EGP/m	Apartments for sale in Zed East Compound with exclusive offers at The Address Property Show	Greater Cairo  /  Zed East Compound - ORA
+7,000,000
+EGP	- 53,846 EGP/m	Own in Taj City with exclusive offers at The Address Property Show	Greater Cairo  /  Origami Gardens - Taj City Compound
+5,000,000
+EGP	- 44,642 EGP/m	Own in Sarai Compound with exclusive offers at The Address Property Show	Greater Cairo  /  Cavana Springs - Sarai Compound
+16,266,000
+EGP	- 123,227 EGP/m	At the lowest price in Zed East Compound, an apartment for sale in a prime location near Al Rehab City	Greater Cairo  /  Zed East Compound - ORA
+8,745,000
+EGP	- 116,600 EGP/m	Ora Company offers apartments in a fully-serviced residential compound in New Cairo with a 10% down payment.	Greater Cairo  /  Zed East Compound - ORA
+8,800,000
+EGP	- 68,750 EGP/m	Apartment for sale, 128 meters, semi-finished, in Creek Town Compound -cazar, 7-year installments	Greater Cairo  /  Creek Town Compound - IL Cazar
